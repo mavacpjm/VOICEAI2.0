@@ -6,4 +6,7 @@ Requirements: pygame request pyttx3 gtts - espeak installed on computer for Pytt
 *** Then modify main.py to your settings for ollama api
 *** Run main.py and ask question to prompt
 
+main1.0.py for GTTS
+main2.0py for PyTTXS3
+
 Work in progress
